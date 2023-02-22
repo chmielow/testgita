@@ -4,14 +4,19 @@
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-   public void logowanie google() {
+   public void logowaniegoogle() {
         System.out.println("Podaj nazwę użytkownika");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-   public void logowanie Microsoft() {
+   public void logowanieMicrosoft() {
         System.out.println("Podaj nazwę użytkownika");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
+    }
+
+	public void przypomnijhaslo() {
+        System.out.println("klinij na przycisk");
+
     }
